@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world 1
+=======
+hello world
+>>>>>>> b0c2c5bb6a18afffce568aedc0dd7e9b514f9ca1
